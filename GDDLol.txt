@@ -1,0 +1,55 @@
+//create movement FPS script
+//done
+
+//movelook script
+//done
+
+//interaction script
+//done
+
+//door script
+//done
+
+//key script
+//done
+
+//lock script
+//done
+
+//finite state machine import
+//done
+
+//UI display of items script
+//done
+
+
+//clue displayer
+//done
+
+//AI script with states
+//mostly done? might need to check some things
+
+//finish eventmanager events
+//done for now
+
+//finish waypointnode script
+//finished for now, seems to be working
+
+//finish waypointmanager
+//finished for now, seems to be working
+
+
+//EnemyAiManager
+//kind of done for now, handles the respawn and dying of enemies
+
+//gun and bullet system
+//gonna just use the old reliable rigidbody loolol
+//basic functionality, need to do ammo and ammo replenishment
+
+//'interact' prompt now shows on screen when an interaction is being looked at
+//done!?
+
+//adding in hitmarker debug function to just check where bullets are going
+
+//add in a graphic effect for the gun to show the tracer
+//while the bullet is tracked seperately
